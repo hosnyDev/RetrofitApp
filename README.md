@@ -3,11 +3,15 @@
 Retrofit app use this api project
 https://github.com/hosnyDev/Slim-php-Api
 
-Register
-Login
-Display All User
-Update Profile
-Delete User
+• Register
+
+• Login
+
+• Display All User
+
+• Update Profile
+
+• Delete User
 
 # Screens 
 
